@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/abdul-hannan-652136160/)](https://www.linkedin.com/in/abdul-hannan-652136160/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hannanhoney5000@gmail.com)](mailto:hannanhoney5000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hannanhoney5000@gmail.com)](mailto:hannanhoney5000@gmail.com)
 
 - 🤔 &nbsp; Estudando **Engenharia de Software** e **Banco de Dados**.
 - 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
