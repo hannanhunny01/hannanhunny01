@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Estudando **Engenharia de Software** e **Banco de Dados**.
 - 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
 - 🎓 &nbsp; Estudante de **Tecnólogo em Banco de Dados** na <a href="https://www.xpeducacao.com.br/graduacao">XP Educação</a>.
-- 💼 &nbsp; Trabalhando com **Gamificação** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python**, **Django**, **Javascript** e **Banco De Dados**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
