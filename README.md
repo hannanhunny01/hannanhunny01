@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/abdul-hannan-652136160/)](https://www.linkedin.com/in/abdul-hannan-652136160/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hannanhoney5000@gmail.com)](mailto:hannanhoney5000@gmail.com)
 
-- 🤔 &nbsp; Learning **Software Engineering**,**DataBases**.
+- 🤔 &nbsp; Learning **Software Engineering** and **DataBases**.
 - 🎓 &nbsp; **Software Engineering** Student at <a href="https://fga.unb.br/">Universidade de Brasília</a>.
-- 🌱 &nbsp; Learning more about **Python**, **Django**, **Data Structures&Competitive Programming** e **Banco De Dados**.
-- 🤝 &nbsp; For collaboration on Open SouceProjects Contact me on my Email  
+- 🌱 &nbsp; I have Great Interest in  **Python**, **Data Structures&Competitive Programming** and **Data Bases**.
+- 🤝 &nbsp; For collaboration on Open SouceProjects Contact me on my Email or linkedin.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
