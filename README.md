@@ -1,14 +1,14 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/abdul-hannan-652136160/)](https://www.linkedin.com/in/abdul-hannan-652136160/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hannanhoney5000@gmail.com)](mailto:hannanhoney5000@gmail.com)
 
-- 🤔 &nbsp; Estudando **Engenharia de Software** e **Banco de Dados**.
-- 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
-- 🎓 &nbsp; Estudante de **Tecnólogo em Banco de Dados** na <a href="https://www.xpeducacao.com.br/graduacao">XP Educação</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python**, **Django**, **Javascript** e **Banco De Dados**.
+- 🤔 &nbsp; Learning **Software Engineering**,**DataBases**.
+- 🎓 &nbsp; **Software Engineering** Student at <a href="https://fga.unb.br/">Universidade de Brasília</a>.
+- 🌱 &nbsp; Learning more about **Python**, **Django**, **Data Structures&Competitive Programming** e **Banco De Dados**.
+- 🤝 &nbsp; For collaboration on Open SouceProjects Contact me on my Email  
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Aplicações e Dados**
 
