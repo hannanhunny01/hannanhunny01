@@ -18,13 +18,16 @@
 
 
 
-<h3> :shipit: &nbsp;Meus status </h3>
+<h3> :shipit: &nbsp;Meus stats </h3>
 
   <a href="https://github.com/hannanhunny01">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hannanhunny01&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hannanhunny01&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
+<h3> My CodeWars Badge </h3>
+
+[![CodeWars](https://www.codewars.com/users/hannanhunny01/badges/large)](https://www.codewars.com/users/hannanhunny01)
 
 
 
